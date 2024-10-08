@@ -1,4 +1,11 @@
-data/
+data/ChildrenAudio/
+data/MaleFemaleAudio/
+data/MultipleSpeakers/
+data/NoisyAudio/
 results/
-src/
-venv/
+musan.py
+VoxConverseProcess.py
+KidDatasetProcess.py
+LibriSpeechProcess.py
+MUSAN_DatasetProcess.py
+p01/
