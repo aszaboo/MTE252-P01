@@ -10,3 +10,5 @@ LibriSpeechProcess.py
 MUSAN_DatasetProcess.py
 p01/
 /synp
+/src/rough.ipynb
+/src/Phase3.ipynb
